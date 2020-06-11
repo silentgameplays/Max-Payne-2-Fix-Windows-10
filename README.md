@@ -16,7 +16,7 @@ FPS Fix:
 # (Optional) Bonus maximize difficulty settings via registry
 0. Launch the game at least once and play the tutorial level for a bit.Exit
 1. Start Menu->Run and type in regedit. Press Enter. 
-2. Go to HKEY_CURRENT_USER->Software->Remedy Entertainment->Max Payne. 
+2. Go to HKEY_CURRENT_USER->Software->Remedy Entertainment->Max Payne 2. 
 3. Click on the 'Game Level' folder, and some items will appear on the right side of the screen. 
 4. Right-Click and select New-DWORD Value 
 5. Double-Click on the entry you just made and set the value to 1. 
