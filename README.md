@@ -24,3 +24,6 @@ FPS Fix:
 * hell for Dead On Arrival mode
 * nightmare for Hard-Broiled mode
 * timedmode for New York Minute mode
+
+# Credit goes to Thirteen AG for wrapper and .ini FPS limiter creation visit him for more goodies:https://thirteenag.github.io/wfp
+# Credit for compilation and testing on latest Windows 10 builds goes to gimalaji_blake
