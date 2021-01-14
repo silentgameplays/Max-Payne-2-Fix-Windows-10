@@ -12,6 +12,15 @@ FPS Fix:
 
 4. Copy/Paste into C:\Program Files (x86)\Steam\steamapps\common\Max Payne 2 The Fall of Max Payne
 
+# NB for Dual GPU's Laptops only!
+
+1. Download everything extract.
+
+2. Copy all files from Reshade Dual GPU's Laptops folder C:\Program Files (x86)\Steam\steamapps\common\Max Payne 2 The Fall of Max Payne
+
+3. Go to your NVIDIA Control Panel>3D Settings>Global find the preferred GPU and set it to NVIDIA
+
+4. Enjoy
 
 # (Optional) Bonus maximize difficulty settings via registry
 0. Launch the game at least once and play the tutorial level for a bit.Exit
