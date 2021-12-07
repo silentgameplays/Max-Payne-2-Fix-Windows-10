@@ -34,5 +34,12 @@ FPS Fix:
 * nightmare for Hard-Broiled mode
 * timedmode for New York Minute mode
 
+# Added 60FPS support for 1080p Thirteen AG patch.
+1.Download and extract into your C:\Program Files (x86)\Steam\steamapps\common\Max Payne 2 The Fall Of Max Payne
+
+# Enjoy!
 # Credit goes to Thirteen AG for wrapper and .ini FPS limiter creation visit him for more goodies:https://thirteenag.github.io/wfp
-# Credit for compilation and testing on latest Windows 10 builds goes to gimalaji_blake
+# Credit for compilation and testing on latest Windows 10 builds goes to silentgameplayz
+
+
+
