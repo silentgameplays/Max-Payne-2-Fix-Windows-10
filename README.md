@@ -39,7 +39,7 @@ FPS Fix:
 
 # Enjoy!
 # Credit goes to Thirteen AG for wrapper and .ini FPS limiter creation visit him for more goodies:https://thirteenag.github.io/wfp
-# Credit for compilation and testing on latest Windows 10 builds goes to silentgameplayzz
+# Credit for compilation and testing on latest Windows 10 builds goes to silentgamepls
 
 
 
